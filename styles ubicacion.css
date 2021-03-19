@@ -1,0 +1,62 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(blanca.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+a{
+    color: rgb(23, 221, 83) ;
+}
+
+div.column{
+
+    padding: 10px;
+    border-width: 10px;
+    border-color: rgb(25, 235, 88);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+}
+.letrau{
+color:rgb(53, 197, 96);
+    font-size: 34px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 600px;
+    background-color: rgb(236, 235, 235);
+    height: 85px;
+    position: relative;
+    top: 40px;
+    left: 26%;
+    border-width: 8px;
+    border-style: solid;
+    border-color:rgb(62, 245, 117);
+    text-align: center;
+}
+
+.mapa{
+    width: 1000px;
+    position: relative;
+    top: 60px;
+    left: 26%;
+}
+footer{
+    width: 1350px;
+    background:black;
+    margin: 0;
+    border-radius: 0 0 -10px -10px;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+    top: 155px;
+    bottom: 0%;
+    left:0%;
+    right: 0px;
+
+}
+
+
+

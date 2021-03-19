@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-image: url(blanca.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+div.column{
+
+    padding: 10px;
+    border-width: 10px;
+    border-color: rgba(64, 224, 208, 0.897);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-style: solid;
+}
+
+.letraf{
+
+    color: rgba(49, 170, 158, 0.897);
+    font-size: 31px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 750px;
+    background-color: rgb(236, 235, 235);
+    height: 375px;
+    position: relative;
+    top: 80px;
+    left: 21%;
+    border-width: 8px;
+    border-style: dashed;
+    border-color:rgba(64, 224, 208, 0.897);
+    text-align: center;
+
+}
+strong{
+    color: black;
+    font-size: 26px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    width: 1350px;
+    background:black;
+    margin: 0;
+    border-radius: 0 0 -10px -10px;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+    top: 175px;
+    bottom: 0%;
+    left:0%;
+    right: 0px;
+
+}
+
+
+
